@@ -27,3 +27,7 @@ Suggest the tags based on the content that was there in the question posted on S
 - Logistic regression (using SGD)
 - SVM (using SGD)
 
+## Tools and technologies used
+<img src='https://www.engineeringbigdata.com/wp-content/uploads/boston-dataset-scikit-learn-machine-learning-python-tutorial.png' width="400" height="200"> 
+<img src='https://clay-atlas.com/wp-content/uploads/2019/08/python_nltk.png' width="100", height="100">
+<img src='https://miro.medium.com/max/1400/1*7oukapIBInsovpHkQB3QZg.jpeg' width="200", height="100">
