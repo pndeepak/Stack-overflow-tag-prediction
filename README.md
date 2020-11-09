@@ -15,6 +15,10 @@ Suggest the tags based on the content that was there in the question posted on S
 
 **Source:** https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction/
 
+## Overview:
+This is a multilabel classification problem implemented using OneVsRestClassifier for 500 different tags. Since Logistic regression using SGD converges faster we have used it as a base estimator for our OneVsRestClassifier. The performance metric used to monitor model performance is micro-F1 score.
+
+
 ## Notebook contents
 - Problem description
 - Problem overview
